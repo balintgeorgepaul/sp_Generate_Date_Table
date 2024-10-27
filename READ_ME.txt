@@ -1,0 +1,1 @@
+This stored procedure (sp_DIM_Date) will generate a table with name DIM_Data with all dates starting with the date of variable @data until @final.
